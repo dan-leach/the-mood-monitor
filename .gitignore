@@ -1,0 +1,9 @@
+error_log
+cgi-bin
+bootstrap-3.4.1-dist/
+.htaccess
+.ftpquota
+chart.min.js
+excellentexport.js
+jquery-3.4.1.min.js
+connect.php
